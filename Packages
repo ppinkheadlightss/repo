@@ -26,16 +26,3 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
-Package: com.imuseum.cyleo
-Name: Cyleo
-Depends: firmware (>= 7.0)
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Replaces Cydia icon with Sileo
-Maintainer: iMuseum
-Author: iMuseum
-Section: Themes
-Filename: ./debs/com.imuseum.cyleo.deb
-Depiction: https://repo.packix.com/package/com.imuseum.cyleo/
-Size: 14568
-MD5sum: b25e5873374f9a05ba44de290ce35e05
